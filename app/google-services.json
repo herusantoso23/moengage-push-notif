@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "442434954432",
+    "firebase_url": "https://moe-5665c.firebaseio.com",
+    "project_id": "moe-5665c",
+    "storage_bucket": "moe-5665c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442434954432:android:c03d4386a8d323f4",
+        "android_client_info": {
+          "package_name": "com.herusantoso.latihan.moengagepushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "442434954432-96vbqk30d6pkbhd5tb5lbbvog4mdftas.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3_01VnHhVI6BPmgb4m82-5ghl3SUVBXY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
